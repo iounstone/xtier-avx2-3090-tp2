@@ -1,3 +1,5 @@
+> **个人 fork**：本仓库跑在 2 × RTX 3090（SM86，纯 PCIe 无 NVLink）+ 双 EPYC 7532（仅 AVX2）上，相对上游的 5 个分支、硬件、实测速度见 [FORK.md](FORK.md)。上游项目：<https://github.com/a775828b-dot/xtier>
+
 # XTier
 
 [English](docs/README.en.md) · [文档目录](docs/README.md) · [快速开始](docs/quickstart.md) · [支持情况](docs/support.md)
